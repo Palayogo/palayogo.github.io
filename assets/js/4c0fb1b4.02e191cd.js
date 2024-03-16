@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpalayogo_docs=self.webpackChunkpalayogo_docs||[]).push([[8303],{4915:o=>{o.exports=JSON.parse('{"permalink":"/blog/tags/win-11","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

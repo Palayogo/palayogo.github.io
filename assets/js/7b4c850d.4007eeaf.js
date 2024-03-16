@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpalayogo_docs=self.webpackChunkpalayogo_docs||[]).push([[7455],{6876:a=>{a.exports=JSON.parse('{"label":"Win11","permalink":"/blog/tags/win-11","allTagsPath":"/blog/tags","count":1}')}}]);
