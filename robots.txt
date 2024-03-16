@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /youtube
+Disallow: /blog
+Allow: /blog/welcome
+Allow: /palayogo-carpark
+Disallow: /product-hub
+Disallow: /about-creation
+Allow: /discord
+
+Sitemap: /sitemap.xml
