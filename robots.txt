@@ -1,7 +1,6 @@
 User-agent: *
 Disallow: /youtube
-Disallow: /blog
-Allow: /blog/welcome
+Allow: /blog
 Allow: /palayogo-carpark
 Disallow: /product-hub
 Disallow: /about-creation
