@@ -1,9 +1,12 @@
 User-agent: *
-Disallow: /youtube
-Allow: /blog
-Allow: /palayogo-carpark
-Disallow: /product-hub
-Disallow: /about-creation
-Allow: /discord
+Disallow: /youtube/index
+Allow: /blog/
+Allow: /palayogo-carpark/index
+Disallow: /product-hub/index
+Disallow: /about-creation/index
+Allow: /discord/index
+Disallow: /video/*
+Disallow: /video/
+Allow: /video/index
 
 Sitemap: /sitemap.xml
