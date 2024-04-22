@@ -10,5 +10,6 @@ Disallow: /video/
 Allow: /video/index
 Disallow: /staff/plushykane/youtube/index
 Disallow: /staff/plushykane/youtube/
+Allow: /privacy/
 
 Sitemap: /sitemap.xml
