@@ -11,5 +11,10 @@ Allow: /video/index
 Disallow: /staff/plushykane/youtube/index
 Disallow: /staff/plushykane/youtube/
 Allow: /privacy/
+Disallow: /staff/pets/
+Disallow: /staff/pets/index
+Disallow: /staff/pets
+Disallow: /staff/kfde12580/youtube/index
+Disallow: /staff/kfde12580/youtube/
 
 Sitemap: /sitemap.xml
