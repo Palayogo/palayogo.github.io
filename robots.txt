@@ -16,7 +16,7 @@ Disallow: /staff/pets/index
 Disallow: /staff/pets
 Disallow: /staff/kfde12580/youtube/index
 Disallow: /staff/kfde12580/youtube/
-Disallow: /redir/
-Disallow: /redir/index
+Disallow: /api/
+Disallow: /api/index
 
 Sitemap: /sitemap.xml
