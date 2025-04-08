@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpalayogo_docs=self.webpackChunkpalayogo_docs||[]).push([[1845],{9361:o=>{o.exports=JSON.parse('{"label":"Microsoft Windows","permalink":"/old/blog/tags/microsoft-windows","allTagsPath":"/old/blog/tags","count":1}')}}]);

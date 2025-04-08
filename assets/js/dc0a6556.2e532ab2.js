@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkpalayogo_docs=self.webpackChunkpalayogo_docs||[]).push([[8217],{5315:o=>{o.exports=JSON.parse('{"permalink":"/blog/tags/iso-file","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

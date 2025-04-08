@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpalayogo_docs=self.webpackChunkpalayogo_docs||[]).push([[3727],{4194:s=>{s.exports=JSON.parse('{"label":"USB stick","permalink":"/old/blog/tags/usb-stick","allTagsPath":"/old/blog/tags","count":1}')}}]);

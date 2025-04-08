@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkpalayogo_docs=self.webpackChunkpalayogo_docs||[]).push([[4927],{8955:a=>{a.exports=JSON.parse('{"label":"Windows 11","permalink":"/blog/tags/windows-11","allTagsPath":"/blog/tags","count":1}')}}]);

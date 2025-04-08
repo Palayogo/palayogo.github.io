@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpalayogo_docs=self.webpackChunkpalayogo_docs||[]).push([[7400],{1093:a=>{a.exports=JSON.parse('{"label":"Palayogo Carpark","permalink":"/old/blog/tags/palayogo-carpark","allTagsPath":"/old/blog/tags","count":1}')}}]);

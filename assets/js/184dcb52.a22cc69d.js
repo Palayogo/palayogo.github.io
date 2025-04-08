@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkpalayogo_docs=self.webpackChunkpalayogo_docs||[]).push([[126],{8053:a=>{a.exports=JSON.parse('{"label":"Bootable USB","permalink":"/blog/tags/bootable-usb","allTagsPath":"/blog/tags","count":1}')}}]);

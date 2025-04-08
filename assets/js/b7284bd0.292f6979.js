@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpalayogo_docs=self.webpackChunkpalayogo_docs||[]).push([[4935],{6657:a=>{a.exports=JSON.parse('{"label":"Palayogo","permalink":"/old/blog/tags/palayogo","allTagsPath":"/old/blog/tags","count":3}')}}]);

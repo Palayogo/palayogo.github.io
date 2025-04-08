@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkpalayogo_docs=self.webpackChunkpalayogo_docs||[]).push([[102],{6621:a=>{a.exports=JSON.parse('{"label":"Rufus","permalink":"/blog/tags/rufus","allTagsPath":"/blog/tags","count":1}')}}]);
