@@ -1,0 +1,22 @@
+User-agent: *
+Disallow: /youtube/index
+Allow: /blog/
+Allow: /palayogo-carpark/index
+Disallow: /product-hub/index
+Disallow: /about-creation/index
+Allow: /discord/index
+Disallow: /video/*
+Disallow: /video/
+Allow: /video/index
+Disallow: /staff/plushykane/youtube/index
+Disallow: /staff/plushykane/youtube/
+Allow: /privacy/
+Disallow: /staff/pets/
+Disallow: /staff/pets/index
+Disallow: /staff/pets
+Disallow: /staff/kfde12580/youtube/index
+Disallow: /staff/kfde12580/youtube/
+Disallow: /api/
+Disallow: /api/index
+
+Sitemap: /sitemap.xml
